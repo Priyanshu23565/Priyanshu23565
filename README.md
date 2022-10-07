@@ -1,6 +1,7 @@
+ <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,I'm Priyanshu ! 😃 </h1>
  <a href="#"><img width="100%" height="auto" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg" height="175px" /></a>
-    <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,I'm Priyanshu ! 😃 </h1>
-    <h3 align="center">I'm a passionate Java Developer from India.</h3>
+    
+    I'm a passionate Java Developer from India. 💻 😎
 
 🙋‍♂️ About Me ✌
 
