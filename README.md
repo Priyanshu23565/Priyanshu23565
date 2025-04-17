@@ -1,62 +1,78 @@
- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,I'm Priyanshu ! 😃 </h1>
- <a href="#"><img width="100%" height="auto" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg" height="175px" /></a>
-    
-    I'm a passionate Java Developer from India. 💻 😎
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Priyanshu!</h1>
 
-🙋‍♂️ About Me ✌
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Java+Developer+%F0%9F%92%BB;Tech+Enthusiast+%F0%9F%94%A5;Open+Source+Contributor+%E2%9C%A8;Always+Learning+New+Things+%F0%9F%92%AF" />
+</p>
 
-I'm Priyanshu ! 😃
-I'm a passionate Java Developer from India.
+<p align="center">
+  <img src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg" width="90%" />
+</p>
 
-🔭 I’m currently working on ATM MACHINE ,
-I'm PRIYANSHU 🌟
-I'm a passionate Java Developer from India. ✨
+---
 
-🌱 I’m currently learning Data Structures and Algorithms.
+## 🙋‍♂️ About Me
 
-👯 I’m looking to collaborate on OpenSource Projects
+- 👨‍💻 I'm **Priyanshu Kumar**, a passionate and creative **Java Developer** based in 🇮🇳 **India**  
+- 🔭 Currently working on a full-fledged **ATM Machine Project**
+- 🌱 Exploring **Data Structures**, **System Design**, and **Backend Development**
+- 🤝 Open to collaborate on **Java/Spring Boot** open-source projects
+- 🧠 Focused on writing clean, scalable & maintainable code
+- 🧩 Loves solving problems and exploring new tech
+- 💌 Reach me at: **priyanshukumar23565@gmail.com**
+- ⚡ Fun Fact: I can debug all day but still find time to game and hit the gym 💪🎮
 
-👨‍💻 All of my projects are available at My Portfolio
+---
 
-📫 How to reach me priyanshukumar23565@gmail.com
+## 🚀 Tech Stack & Tools
 
-⚡ Fun fact I play games and go to the GYM very often.
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
 
-🚀 Languages and Tools:
-    <hr>
-    <br>
-    <p align="left">
-        <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> </a>
-        <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png" /> </a>
-        <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png" /> </a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" /> </a>
-        <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" /> </a>
-        <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" /> </a>
-        <!-- <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" /> </a> -->
-        <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png" /> </a>
-        <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png" /> </a>
-        <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" /> </a>
-        <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45" /> </a>
-        <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" /> </a>
+---
 
+## 📈 My GitHub Stats
 
-📊 My Github Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanshu23565&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu23565&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
-PRIYANSHU Github  🌟Stats PRIYANSHU KUMAR  Top Languages 😎
-Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu23565&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
+---
 
-📊 My Github Stats
+## 📫 Connect with Me
 
-Subham Raoniar's Github Stats Subham Raoniar's Top Languages
-Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<p align="center">
+  <a href="https://www.linkedin.com/in/priyanshu-kumar-6841b2227/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/__priyanshu622__/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:priyanshukumar23565@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
+---
 
+## 🧠 Fun Projects & Ideas
+- 🏧 **ATM Simulator** – Java-based real-time banking simulation
+- 🧮 **Multiplication Table Generator** – Lightweight Java .exe app
+- 💾 Building full-stack projects using **Java + React + MySQL**
 
-💁‍♂️Connect with me:
-    <p align="left">
-        <a href="https://www.linkedin.com/in/priyanshu-kumar-6841b2227/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" /></a>
-        <a href="https://www.instagram.com/__priyanshu622__/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" /></a>
+---
 
-❤ Views and Followers  🤍
- GitHub 💫
+## 🧊 Cool Developer Facts
+
+```text
+💻 I code almost every day
+🎧 I vibe to lo-fi beats while coding
+🏋️‍♂️ I believe a healthy body fuels a sharp mind
+🎮 Gamer in free time: FPS & Racing 🔫🏎️
