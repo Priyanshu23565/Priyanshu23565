@@ -5,8 +5,10 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg" width="90%" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="max-width: 100%; height: auto;" />
 </p>
+
+
 
 ---
 
