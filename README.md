@@ -1,80 +1,98 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Priyanshu!</h1>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
+  Namaste, I'm Priyanshu Kumar!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
+</h1>
+
+<h3 align="center">A Passionate Java Developer from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Java+Developer+%F0%9F%92%BB;Tech+Enthusiast+%F0%9F%94%A5;Open+Source+Contributor+%E2%9C%A8;Always+Learning+New+Things+%F0%9F%92%AF" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Java+%7C+Spring+Boot+%7C+Microservices;DSA+%7C+Problem+Solver;Open+Source+Contributor;Always+Learning+New+Tech" alt="Typing Animation"/>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="max-width: 100%; height: auto;" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Animation" width="400"/>
 </p>
 
+---
 
+## 🚀 About Me
+
+- 💻 **Full-Stack Developer** specializing in Java/Spring Boot
+- 🔭 Currently building **[ATM Simulator](https://github.com/priyanshu23565/atm-simulator)**
+- 🌱 Learning **Cloud Technologies & System Design**
+- 💡 Passionate about **clean code** and **scalable architectures**
+- 🏋️‍♂️ Fitness enthusiast & occasional gamer
+- 📫 How to reach me: **[Email](mailto:priyanshukumar23565@gmail.com)** | **[LinkedIn](https://www.linkedin.com/in/priyanshu-kumar-6841b2227/)**
 
 ---
 
-## 🙋‍♂️ About Me
+## 🛠️ Tech Stack
 
-- 👨‍💻 I'm **Priyanshu Kumar**, a passionate and creative **Java Developer** based in 🇮🇳 **India**  
-- 🔭 Currently working on a full-fledged **ATM Machine Project**
-- 🌱 Exploring **Data Structures**, **System Design**, and **Backend Development**
-- 🤝 Open to collaborate on **Java/Spring Boot** open-source projects
-- 🧠 Focused on writing clean, scalable & maintainable code
-- 🧩 Loves solving problems and exploring new tech
-- 💌 Reach me at: **priyanshukumar23565@gmail.com**
-- ⚡ Fun Fact: I can debug all day but still find time to game and hit the gym 💪🎮
+### Core Technologies
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+</p>
 
----
-
-## 🚀 Tech Stack & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+### Frontend & Databases
+<p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### DevOps & Tools
+<p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
 ---
 
-## 📈 My GitHub Stats
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanshu23565&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu23565&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu23565&layout=compact&theme=radical&hide_border=true" width="48%"/>
+</div>
+
+---
+
+## 🏆 Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [ATM Simulator](https://github.com/priyanshu23565/atm-simulator) | Java-based banking simulation | Java, OOP |
+| [Multiplication Table Generator](https://github.com/priyanshu23565/multiplication-table) | Lightweight Java application | Java, Swing |
+| [Full-Stack Template](https://github.com/priyanshu23565/java-react-mysql) | Boilerplate for full-stack apps | Java, React, MySQL |
+
+</div>
+
+---
+
+## 🤝 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshu23565&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu23565&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu23565&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
-
-## 📫 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/priyanshu-kumar-6841b2227/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/__priyanshu622__/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:priyanshukumar23565@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/priyanshu-kumar-6841b2227/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/__priyanshu622__/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:priyanshukumar23565@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🧠 Fun Projects & Ideas
-- 🏧 **ATM Simulator** – Java-based real-time banking simulation
-- 🧮 **Multiplication Table Generator** – Lightweight Java .exe app
-- 💾 Building full-stack projects using **Java + React + MySQL**
-
----
-
-## 🧊 Cool Developer Facts
+## 💭 Developer Philosophy
 
 ```text
-💻 I code almost every day
-🎧 I vibe to lo-fi beats while coding
-🏋️‍♂️ I believe a healthy body fuels a sharp mind
-🎮 Gamer in free time: FPS & Racing 🔫🏎️
+"Clean code is not written by following rules,
+it's written by experience and constant refinement."
