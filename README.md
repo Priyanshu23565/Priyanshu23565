@@ -71,6 +71,9 @@
 | [Multiplication Table Generator](https://github.com/priyanshu23565/multiplication-table) | Lightweight Java application | Java, Swing |
 | [Full-Stack Template](https://github.com/priyanshu23565/java-react-mysql) | Boilerplate for full-stack apps | Java, React, MySQL |
 
+--> MYSQL NOTES ->()
+| [MYSQL   => ](https://github.com/Priyanshu23565/Programming/tree/main/MYSQL)| Boilerplate for full-stack apps | Java, React, MySQL |
+
 </div>
 
 ---
