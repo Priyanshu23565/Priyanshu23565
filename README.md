@@ -106,7 +106,9 @@
 “First, solve the problem.
 Then, write the code cleanly,
 Then, optimize like a master.”
+```
 
 ---
 
-![Snake animation](https://github.com/<your-username>/<your-username>/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Priyanshu23565/Priyanshu23565/blob/output/github-contribution-grid-snake.svg)
+
