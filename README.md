@@ -53,6 +53,23 @@
 
 ---
 
+
+## 💻 Tech Stack
+
+🎨 Frontend
+<p align="center"> <img src="https://skillicons.dev/icons?i=html" title="HTML" /> <img src="https://skillicons.dev/icons?i=css" title="CSS" /> <img src="https://skillicons.dev/icons?i=js" title="JavaScript" /> <img src="https://skillicons.dev/icons?i=react" title="React.js" /> <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" /> </p>
+🧱 Backend
+<p align="center"> <img src="https://skillicons.dev/icons?i=java" title="Java" /> <img src="https://skillicons.dev/icons?i=spring" title="Spring Boot" /> </p>
+🧩 Frameworks / Libraries
+<p align="center"> <img src="https://skillicons.dev/icons?i=react" title="React.js" /> <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" /> </p>
+💾 Databases
+<p align="center"> <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" /> <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" /> </p>
+🛠️ Tools & DevOps
+<p align="center"> <img src="https://skillicons.dev/icons?i=git" title="Git" /> <img src="https://skillicons.dev/icons?i=github" title="GitHub" /> <img src="https://skillicons.dev/icons?i=linux" title="Linux" /> <img src="https://skillicons.dev/icons?i=docker" title="Docker" /> <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" /> <img src="https://skillicons.dev/icons?i=postman" title="Postman" /> <img src="https://skillicons.dev/icons?i=intellij" title="IntelliJ IDEA" /> </p>
+
+
+
+
 ## 📌 Featured Projects
 
 - 🔧 [ATM Simulator](https://github.com/priyanshu23565/atm-simulator)  
