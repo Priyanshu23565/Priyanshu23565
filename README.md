@@ -9,13 +9,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/priyanshu23565/priyanshu23565/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
-
 <h3 align="center" style="color:#ff66cc;">💻 A Passionate Java Developer from India 🇮🇳</h3>
 
 <p align="center">
@@ -110,5 +103,11 @@ Then, optimize like a master.”
 
 ---
 
-![Snake animation](https://github.com/Priyanshu23565/Priyanshu23565/blob/output/github-contribution-grid-snake.svg)
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/priyanshu23565/priyanshu23565/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+
 
