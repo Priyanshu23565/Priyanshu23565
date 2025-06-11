@@ -6,6 +6,16 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" height="40px"/>
 </h1>
 
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/priyanshu23565/priyanshu23565/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+
 <h3 align="center" style="color:#ff66cc;">💻 A Passionate Java Developer from India 🇮🇳</h3>
 
 <p align="center">
