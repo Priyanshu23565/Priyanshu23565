@@ -1,0 +1,27 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # daily at midnight UTC
+  workflow_dispatch:     # manual trigger bhi allowed
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate snake animation
+        uses: Platane/snk@master
+        with:
+          github_user_name: priyanshu23565
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push generated files
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output     # output branch me save karega
+          build_dir: dist           # ye folder banega and use push karega
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
