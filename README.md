@@ -1,15 +1,18 @@
 <!-- GLOW + FADE-IN PROFILE WITH ANIMATION -->
 
+<!-- GLOW + FADE-IN PROFILE WITH ANIMATION -->
+
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" height="40px"/>
   <span style="color:#00ffcc; animation: fadeIn 2s ease-in-out;">नमस्ते, I'm <b>Priyanshu Kumar</b>!</span>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" height="40px"/>
 </h1>
 
-
----
-
 <h3 align="center" style="color:#ff66cc;">💻 A Passionate Java Developer from India 🇮🇳</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=priyanshu23565&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+%7C+Microservices;DSA+%7C+Problem+Solver;Open+Source+Contributor;Always+Learning+New+Tech" alt="Typing SVG"/>
@@ -32,26 +35,10 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🏆 GitHub Trophies
 
-### 💻 Backend & Core
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
-</p>
-
-### 🎨 Frontend & DB
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-</p>
-
-### ⚙️ Tools & DevOps
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=priyanshu23565&theme=algolia&no-bg=true&no-frame=true" />
 </p>
 
 ---
@@ -66,14 +53,36 @@
 
 ---
 
-## 🏆 Projects
+## 📌 Featured Projects
 
-| ⭐ Project | 🔍 Description | 🔧 Tech Stack |
-|----------|----------------|---------------|
-| [ATM Simulator](https://github.com/priyanshu23565/atm-simulator) | Simulates ATM Banking | Java, OOP |
-| [Multiplication Table Generator](https://github.com/priyanshu23565/multiplication-table) | Java Desktop App | Java, Swing |
-| [Full-Stack Boilerplate](https://github.com/priyanshu23565/java-react-mysql) | Starter App | Java, React, MySQL |
-| [MySQL Notes](https://github.com/Priyanshu23565/Programming/tree/main/MYSQL) | All SQL Queries + Notes | MySQL |
+- 🔧 [ATM Simulator](https://github.com/priyanshu23565/atm-simulator)  
+  Simulates banking operations – built with Java & OOP concepts.
+  
+- 💡 [Multiplication Table Generator](https://github.com/priyanshu23565/multiplication-table)  
+  Java Desktop App using Swing.
+  
+- 🌐 [Java-React-MySQL Boilerplate](https://github.com/priyanshu23565/java-react-mysql)  
+  Full-stack template for backend + frontend + DB.
+  
+- 🗃️ [MySQL Notes](https://github.com/Priyanshu23565/Programming/tree/main/MYSQL)  
+  SQL queries, notes, practice scripts.
+
+---
+
+## 🧠 Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Contribution Activity Graph
+
+[![Priyanshu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=priyanshu23565&bg_color=0d1117&color=00ffcc&line=00ccff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
 
 ---
 
@@ -99,6 +108,7 @@
 “First, solve the problem.
 Then, write the code cleanly,
 Then, optimize like a master.”
+
 ```
 
 ---
