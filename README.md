@@ -14,6 +14,9 @@
   <img src="https://komarev.com/ghpvc/?username=priyanshu23565&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
+
+
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+%7C+Microservices;DSA+%7C+Problem+Solver;Open+Source+Contributor;Always+Learning+New+Tech" alt="Typing SVG"/>
 </p>
@@ -36,7 +39,17 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu23565&theme=react-dark&area=true&custom_title=My%20Activity%20Graph" alt="Activity Graph" />
+
+  <!-- Title -->
+  <h3>🔥 My Contribution Activity 🔥</h3>
+
+  <!-- Contribution Graph -->
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu23565&theme=react-dark&area=true&custom_title=My%20Activity%20Graph" 
+    alt="GitHub Activity Graph" 
+    width="100%"
+  />
+
 </div>
 
 ---
