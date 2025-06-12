@@ -35,6 +35,12 @@
 
 ---
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu23565&theme=react-dark&area=true&custom_title=My%20Activity%20Graph" alt="Activity Graph" />
+</div>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
