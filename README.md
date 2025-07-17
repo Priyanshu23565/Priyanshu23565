@@ -161,17 +161,21 @@
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/priyanshu-kumar-6841b2227/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+<p align="center" style="margin-top: 20px;">
+  <a href="https://www.linkedin.com/in/priyanshu-kumar-6841b2227/" target="_blank" rel="noopener noreferrer" style="text-decoration:none; margin:0 12px;">
+    🔗 
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/__priyanshu622__/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://www.instagram.com/__priyanshu622__/" target="_blank" rel="noopener noreferrer" style="text-decoration:none; margin:0 12px;">
+    📸 
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="mailto:priyanshukumar23565@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:priyanshukumar23565@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration:none; margin:0 12px;">
+    📧 
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
+
 
 ---
 
