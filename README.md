@@ -8,11 +8,36 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" height="40px"/>
 </h1>
 
-<h3 align="center" style="color:#ff66cc;">💻 A Passionate Java Developer from India 🇮🇳</h3>
+<<h3 align="center" style="color:#4caf50; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  👨‍🏫 Passionate Coding Mentor | Helping Students Level Up 🚀
+</h3>
+
+
 
 <p align="center">
+  <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=priyanshu23565&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  &nbsp;&nbsp;
+  <!-- Followers -->
+  <img src="https://img.shields.io/github/followers/priyanshu23565?label=Followers&style=social" alt="GitHub Followers" />
+  &nbsp;&nbsp;
+  <!-- Stars -->
+  <img src="https://img.shields.io/github/stars/priyanshu23565?style=social" alt="GitHub Stars" />
+  &nbsp;&nbsp;
+  <!-- Total Public Repos -->
+  
+  <!-- Last Commit -->
+  <img src="https://img.shields.io/github/last-commit/priyanshu23565/priyanshu23565?style=flat-square" alt="Last Commit" />
 </p>
+<p align="center">
+  <!-- Profile Views -->
+  <!-- GitHub Readme Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanshu23565&show_icons=true&theme=blue" alt="GitHub Stats" />
+</p>
+
+
+
+
 
 
 
