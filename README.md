@@ -98,18 +98,108 @@
 ---
 
 
-## 💻 Tech Stack
+## 🧰 Tech Stack
 
-🎨 Frontend
-<p align="center"> <img src="https://skillicons.dev/icons?i=html" title="HTML" /> <img src="https://skillicons.dev/icons?i=css" title="CSS" /> <img src="https://skillicons.dev/icons?i=js" title="JavaScript" /> <img src="https://skillicons.dev/icons?i=react" title="React.js" /> <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" /> </p>
-🧱 Backend
-<p align="center"> <img src="https://skillicons.dev/icons?i=java" title="Java" /> <img src="https://skillicons.dev/icons?i=spring" title="Spring Boot" /> </p>
-🧩 Frameworks / Libraries
-<p align="center"> <img src="https://skillicons.dev/icons?i=react" title="React.js" /> <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" /> </p>
-💾 Databases
-<p align="center"> <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" /> <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" /> </p>
-🛠️ Tools & DevOps
-<p align="center"> <img src="https://skillicons.dev/icons?i=git" title="Git" /> <img src="https://skillicons.dev/icons?i=github" title="GitHub" /> <img src="https://skillicons.dev/icons?i=linux" title="Linux" /> <img src="https://skillicons.dev/icons?i=docker" title="Docker" /> <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" /> <img src="https://skillicons.dev/icons?i=postman" title="Postman" /> <img src="https://skillicons.dev/icons?i=intellij" title="IntelliJ IDEA" /> </p>
+Modern and scalable technologies used in this project to build fast, responsive, intelligent apps.
+
+---
+
+### 💻 Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c" title="C" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=java" title="Java" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" title="Python" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />
+</p>
+
+---
+
+### 🌐 Frontend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html" title="HTML" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" title="CSS" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" title="React.js" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=redux" title="Redux" />
+</p>
+
+---
+
+### 🔙 Backend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=express" title="Express.js" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=spring" title="Spring Boot" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=django" title="Django" />
+</p>
+
+---
+
+### 🧠 Artificial Intelligence & Machine Learning
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" title="Python" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=tensorflow" title="TensorFlow" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=jupyter" title="Jupyter Notebook" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=openai" title="OpenAI/ChatGPT APIs" />
+</p>
+
+---
+
+### 📱 App Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter" title="Flutter" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=dart" title="Dart" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=androidstudio" title="Android Studio" />
+</p>
+
+---
+
+### 💾 Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" />
+</p>
+
+---
+
+### ☁️ Cloud & Hosting Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=netlify" title="Netlify" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=aws" title="AWS" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=gcp" title="Google Cloud" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=heroku" title="Heroku" />
+</p>
+
+---
+
+### ⚙️ Tools & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git" title="Git" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux" title="Linux" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" title="Postman" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=intellij" title="IntelliJ IDEA" />
+</p>
+
+---
+
+### 🎨 UI/UX & Design
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma" title="Figma" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=adobephotoshop" title="Photoshop" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=canva" title="Canva" />
+</p>
 
 
 
