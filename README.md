@@ -1,6 +1,4 @@
-<!-- GLOW + FADE-IN PROFILE WITH ANIMATION -->
-
-<!-- GLOW + FADE-IN PROFILE WITH ANIMATION -->
+<!-- 🔥 GLOW + FADE-IN PROFILE WITH ANIMATION -->
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
@@ -9,43 +7,32 @@
 </h1>
 
 <p align="center">
-  <em>👨‍🏫 Passionate <b>Coding Mentor</b> | Helping Students Level Up 🚀</em>
+  <em>
+    🔧 Full-Stack Java Developer (Spring Boot + React) <br>
+    ☁️ Cloud & System Design Learner <br>
+    🧑‍🏫 Coding Mentor | 💻 Backend Explorer | 🚀 Growth Seeker
+  </em>
 </p>
 
 <p align="center">
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-DM-blue?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:priyanshukumar23565@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://github.com/your-github">
-    <img src="https://img.shields.io/github/followers/your-github?label=Follow&style=social"/>
+  <a href="https://github.com/priyanshu23565">
+    <img src="https://img.shields.io/github/followers/priyanshu23565?label=Follow&style=for-the-badge&logo=github"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/priyanshu-kumar-6841b2227/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
 
+---
 
 
 
 
-<p align="center">
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=priyanshu23565&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  &nbsp;&nbsp;
-  <!-- Followers -->
-  <img src="https://img.shields.io/github/followers/priyanshu23565?label=Followers&style=social" alt="GitHub Followers" />
-  &nbsp;&nbsp;
-  <!-- Stars -->
-  <img src="https://img.shields.io/github/stars/priyanshu23565?style=social" alt="GitHub Stars" />
-  &nbsp;&nbsp;
-  <!-- Total Public Repos -->
-  
-  <!-- Last Commit -->
-  <img src="https://img.shields.io/github/last-commit/priyanshu23565/priyanshu23565?style=flat-square" alt="Last Commit" />
-</p>
-<p align="center">
-  <!-- Profile Views -->
-  <!-- GitHub Readme Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshu23565&show_icons=true&theme=blue" alt="GitHub Stats" />
-</p>
 
 
 
@@ -64,14 +51,24 @@
 
 ---
 
+
+
 ## 🚀 About Me
 
-- 🎯 **Full-Stack Java Developer** (Spring Boot + React)
-- 🛠️ Creator of: **[ATM Simulator](https://github.com/priyanshu23565/atm-simulator)**
-- 🌩️ Currently learning: **Cloud | System Design**
-- ✨ Code Style: **Readable, Scalable, Reusable**
-- 🎮 Side hobbies: Fitness, Gaming, Open Source
-- 📫 Reach me: **[Gmail](mailto:priyanshukumar23565@gmail.com)** | **[LinkedIn](https://www.linkedin.com/in/priyanshu-kumar-6841b2227/)**
+- 👨‍💻 **Full-Stack Java Developer** | Working with **Spring Boot**, **React**, and **MySQL**
+- 🛠️ Projects I’ve built:
+  - 🎮 [ATM Simulator](https://github.com/priyanshu23565/atm-simulator) – Console-based banking app
+  - 📚 [Book Issue System](https://github.com/priyanshu23565/book-issue-system) – Web app using Spring Boot & MySQL
+  - 🎵 [Flutter Music App](https://github.com/priyanshu23565/MUSIC-APP) – Android app built with Dart & Flutter
+  - 🚗 [Car Sales Analysis](https://github.com/priyanshu23565/-Car-Sales-Data-Analysis-Spark-MapReduce-) – Big data insights using Spark & MapReduce
+- 📘 Notes & Resources: 
+  - 💻 [AI Notes](https://github.com/priyanshu23565/Artificial-intelligence-NOTES)
+  - 📊 [Excel Notes](https://github.com/priyanshu23565/EXCEL)
+  - 🧠 [Computer Fundamentals](https://github.com/priyanshu23565/COMPUTER-)
+- ☁️ Currently exploring: **Cloud Computing**, **System Design**, & **Data Engineering**
+- ✨ I write code that’s: **Readable**, **Scalable**, and **Reusable**
+- 🕹️ Other hobbies: **Fitness**, **Gaming**, and **Open Source**
+- 📫 Reach me: [Gmail](mailto:priyanshukumar23565@gmail.com) | [LinkedIn](https://www.linkedin.com/in/priyanshu-kumar-6841b2227/)
 
 ---
 
