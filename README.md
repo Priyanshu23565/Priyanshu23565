@@ -54,23 +54,40 @@
 
 
 ## 🚀 About Me
+## 👋 Hey there, I'm Priyanshu!
 
 - 👨‍💻 **Full-Stack Java Developer** | Working with **Spring Boot**, **React**, and **MySQL**
-- 🛠️ Projects I’ve built:
-  - 🎮 [ATM Simulator](https://github.com/priyanshu23565/atm-simulator) – Console-based banking app
-  - 📚 [Book Issue System](https://github.com/priyanshu23565/book-issue-system) – Web app using Spring Boot & MySQL
-  - 🎵 [Flutter Music App](https://github.com/priyanshu23565/MUSIC-APP) – Android app built with Dart & Flutter
-  - 🚗 [Car Sales Analysis](https://github.com/priyanshu23565/-Car-Sales-Data-Analysis-Spark-MapReduce-) – Big data insights using Spark & MapReduce
-- 📘 Notes & Resources: 
-  - 💻 [AI Notes](https://github.com/priyanshu23565/Artificial-intelligence-NOTES)
-  - 📊 [Excel Notes](https://github.com/priyanshu23565/EXCEL)
-  - 🧠 [Computer Fundamentals](https://github.com/priyanshu23565/COMPUTER-)
-- ☁️ Currently exploring: **Cloud Computing**, **System Design**, & **Data Engineering**
-- ✨ I write code that’s: **Readable**, **Scalable**, and **Reusable**
-- 🕹️ Other hobbies: **Fitness**, **Gaming**, and **Open Source**
-- 📫 Reach me: [Gmail](mailto:priyanshukumar23565@gmail.com) | [LinkedIn](https://www.linkedin.com/in/priyanshu-kumar-6841b2227/)
 
----
+### 🛠️ Projects I’ve built:
+- 🎮 [ATM Simulator](https://github.com/priyanshu23565/atm-simulator) – Console-based banking app  
+- 📚 [Book Issue System](https://github.com/priyanshu23565/book-issue-system) – Web app using Spring Boot & MySQL  
+- 🎵 [Flutter Music App](https://github.com/priyanshu23565/MUSIC-APP) – Android app built with Dart & Flutter  
+- 🚗 [Car Sales Analysis](https://github.com/priyanshu23565/-Car-Sales-Data-Analysis-Spark-MapReduce-) – Big data insights using Spark & MapReduce  
+
+### 📘 Notes & Resources:
+- 🤖 [AI Notes](https://github.com/priyanshu23565/Artificial-intelligence-NOTES)  
+- 📊 [Excel Notes](https://github.com/priyanshu23565/EXCEL)  
+- 🧠 [Computer Fundamentals](https://github.com/priyanshu23565/COMPUTER-)  
+
+#### 📚 Programming Language Notes:
+- 📜 [JavaScript Notes](https://github.com/Priyanshu23565/Programming/tree/main/JS)  
+- 🌐 [HTML Notes](https://github.com/Priyanshu23565/Programming/tree/main/HTML)  
+- 🎨 [CSS Notes](https://github.com/Priyanshu23565/Programming/tree/main/CSS)  
+- ⚙️ [C++ Notes](https://github.com/Priyanshu23565/Programming/tree/main/C%2B%2B)  
+- 💾 [C Language Notes](https://github.com/Priyanshu23565/Programming/tree/main/C%20-Language)  
+
+### ☁️ Currently Exploring:
+**Cloud Computing**, **System Design**, & **Data Engineering**
+
+### ✨ I write code that’s:
+**Readable**, **Scalable**, and **Reusable**
+
+### 🕹️ Other hobbies:
+**Fitness**, **Gaming**, and **Open Source**
+
+### 📫 Reach me:
+[📧 Gmail](mailto:priyanshukumar23565@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/priyanshu-kumar-6841b2227/)
+
 
 <div align="center">
 
