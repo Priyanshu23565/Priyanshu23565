@@ -117,7 +117,9 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=priyanshu23565&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=priyanshu23565&theme=tokyonight&hide_border=true" width="48%"/>
+  
+  <img src="https://github-readme-streak-stats.vercel.app/?user=priyanshu23565&theme=tokyonight&hide_border=true" width="48%"/>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu23565&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </div>
 
@@ -270,8 +272,6 @@ Modern and scalable technologies used in this project to build fast, responsive,
   <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="80" title="Galaxy Brain"/>
   <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="80" title="Arctic Code Vault Contributor"/>
 </p>
-
-
 
 ---
 
