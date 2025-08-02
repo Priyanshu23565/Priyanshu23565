@@ -14,36 +14,46 @@
   </em>
 </p>
 
-<p align="center">
-  <a href="mailto:priyanshukumar23565@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+<p align="center" style="margin-top: 20px;">
+
+  <a href="mailto:priyanshukumar23565@gmail.com" target="_blank" rel="noopener noreferrer" title="Email Me" style="margin: 0 10px; display: inline-block;">
+    <img src="https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
-  &nbsp;
-  <a href="https://github.com/priyanshu23565">
-    <img src="https://img.shields.io/github/followers/priyanshu23565?label=Follow&style=for-the-badge&logo=github"/>
+
+  <a href="https://github.com/priyanshu23565" target="_blank" rel="noopener noreferrer" title="GitHub Profile" style="margin: 0 10px; display: inline-block;">
+    <img src="https://img.shields.io/github/followers/priyanshu23565?label=Follow&style=for-the-badge&logo=github" alt="GitHub Followers" height="40" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/priyanshu-kumar-6841b2227/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+
+  <a href="https://www.linkedin.com/in/priyanshu-kumar-6841b2227/" target="_blank" rel="noopener noreferrer" title="LinkedIn Profile" style="margin: 0 10px; display: inline-block;">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" height="40" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
 </p>
+
+
+<div align="center" style="font-family: 'Fira Code', monospace; margin-top: 30px;">
+
+  <!-- ZERO to HERO banner -->
+  <h2 style="color: #00FFAA; text-shadow: 0 0 12px #00FFAA, 0 0 24px #00FFAA; margin-bottom: 5px; letter-spacing: 3px;">
+    ZERO to <span style="color:#FF416C; text-shadow: 0 0 10px #FF416C, 0 0 20px #FF416C;">HERO</span> CODE
+  </h2>
+
+  <!-- StartTheCode tagline -->
+  <p style="font-size: 18px; color: #CCCCCC; margin-top: 0; font-weight: 600; letter-spacing: 1.5px; margin-bottom: 25px;">
+    🔥 <span style="color:#FFDC00;">StartTheCode</span> &nbsp;&mdash;&nbsp; Code. Build. Grow. Repeat. 🚀
+  </p>
+
+  <!-- Typing animated skills -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FFAA,FF416C,FFD700,00FFAA,FF416C,FF8C00&center=true&vCenter=true&width=780&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB+C+%26+C%2B%2B+Teacher;%E2%98%95%EF%B8%8F+Java+%7C+%F0%9F%90%8D+Python+%7C+%E2%9A%97%EF%B8%8F+Flask;%F0%9F%90%AC+MySQL+%7C+%F0%9F%8C%90+HTML+%7C+%F0%9F%8E%A8+CSS+%7C+%E2%9C%A8+JS;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Coding+Mentor+%7C+%F0%9F%92%A1+Passionate+Educator;%F0%9F%9A%80+Building+Future+Developers;%F0%9F%92%BB+Code.+%F0%9F%93%9A+Learn.+%F0%9F%93%88+Grow.;%F0%9F%8C%9F+From+Zero+to+Hero;%F0%9F%94%A5+Let's+StartTheCode!" alt="Typing SVG"/>
+</div>
+
+
+
+
+
+</div>
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+%7C+Microservices;DSA+%7C+Problem+Solver;Open+Source+Contributor;Always+Learning+New+Tech" alt="Typing SVG"/>
-</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Code Animation"/>
