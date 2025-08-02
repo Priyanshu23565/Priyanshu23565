@@ -247,20 +247,50 @@ Modern and scalable technologies used in this project to build fast, responsive,
 
 
 
+## 🚀 BEST-BEST Projects by Priyanshu Kumar
 
-## 📌 Featured Projects
+| Project Name | Description | Tech Stack | Last Updated |
+|--------------|-------------|------------|--------------|
+| 🔧 [ATM Simulator](https://github.com/priyanshu23565/atm-simulator) | Simulates banking operations with real OOP concepts. | Java | Updated recently |
+| 💡 [Multiplication Table Generator](https://github.com/priyanshu23565/multiplication-table) | Desktop Java app using Swing for multiplication tables. | Java, Swing | Updated Apr 19 |
+| 🌐 [Java-React-MySQL Boilerplate](https://github.com/priyanshu23565/java-react-mysql) | Full-stack template for backend + frontend + database. | Java, React, MySQL | Updated recently |
+| 🗃️ [MySQL Notes](https://github.com/Priyanshu23565/Programming/tree/main/MYSQL) | Collection of SQL queries, notes, and practice scripts. | MySQL | Ongoing updates |
+| 📱 [Multiplication Learning App with Sound](https://github.com/priyanshu23565/Multiplication_Learning_App_with_Sound_Flutter_AI) | Flutter app for learning multiplication with AI & sound. | Flutter, Dart, AI | Updated Jun 2 |
+| 📚 [Book Issue System](https://github.com/priyanshu23565/book-issue-system) | Web app to manage book issues using Spring Boot, MySQL. | Java, Spring Boot, MySQL, JS | Updated May 1 |
+| 🐍 [Python Projects](https://github.com/priyanshu23565/RESULYPYTHON) | Various Python scripts and tools including GUI apps. | Python, Tkinter | Updated Apr 21 |
+| 🍔 [Restaurant Billing System](https://github.com/priyanshu23565/Restaurant-Billing-System-in-Java-Using-Swing-GUI-) | GUI based billing system using Java Swing & AWT. | Java, Swing | Updated Apr 12 |
+| 🛒 [Amazon Clone](https://github.com/priyanshu23565/amazon-clone) | Simple Amazon UI clone with cart functionality. | JavaScript, HTML, CSS | Updated Apr 9 |
+| 🔥 [StartTheCode Projects](https://github.com/priyanshu23565/startthecode) | Various projects and tutorials under StartTheCode series. | Multiple | Various dates |
 
-- 🔧 [ATM Simulator](https://github.com/priyanshu23565/atm-simulator)  
-  Simulates banking operations – built with Java & OOP concepts.
-  
-- 💡 [Multiplication Table Generator](https://github.com/priyanshu23565/multiplication-table)  
-  Java Desktop App using Swing.
-  
-- 🌐 [Java-React-MySQL Boilerplate](https://github.com/priyanshu23565/java-react-mysql)  
-  Full-stack template for backend + frontend + DB.
-  
-- 🗃️ [MySQL Notes](https://github.com/Priyanshu23565/Programming/tree/main/MYSQL)  
-  SQL queries, notes, practice scripts.
+---
+
+## 🚀 Featured Projects
+
+Here are some of my key projects showcasing my skills and passion:
+
+---
+
+### 🔧 [ATM Simulator](https://github.com/priyanshu23565/atm-simulator)  
+*Java OOP project simulating banking operations with real-world concepts.*
+
+---
+
+### 💡 [Multiplication Table Generator](https://github.com/priyanshu23565/multiplication-table)  
+*Desktop Java Swing application to generate multiplication tables interactively.*
+
+---
+
+### 🌐 [Java-React-MySQL Boilerplate](https://github.com/priyanshu23565/java-react-mysql)  
+*Full-stack starter template combining backend, frontend, and database setup.*
+
+---
+
+### 🗃️ [MySQL Notes](https://github.com/Priyanshu23565/Programming/tree/main/MYSQL)  
+*A curated collection of SQL queries, notes, and practice scripts for database mastery.*
+
+---
+
+✨ Feel free to explore and contribute!  
 
 ---
 
@@ -271,6 +301,7 @@ Modern and scalable technologies used in this project to build fast, responsive,
 </p>
 
 ---
+
 
 ## 📈 Contribution Activity Graph
 
