@@ -68,35 +68,48 @@
 
 - 👨‍💻 **Full-Stack Java Developer** | Working with **Spring Boot**, **React**, and **MySQL**
 
-### 🛠️ Projects I’ve built:
-- 🎮 [ATM Simulator](https://github.com/priyanshu23565/atm-simulator) – Console-based banking app  
-- 📚 [Book Issue System](https://github.com/priyanshu23565/book-issue-system) – Web app using Spring Boot & MySQL  
-- 🎵 [Flutter Music App](https://github.com/priyanshu23565/MUSIC-APP) – Android app built with Dart & Flutter  
-- 🚗 [Car Sales Analysis](https://github.com/priyanshu23565/-Car-Sales-Data-Analysis-Spark-MapReduce-) – Big data insights using Spark & MapReduce  
+| 🔢 No. | 📌 Project Name       | 🔗 GitHub Link                                                                             | 📝 Description                            |
+| ------ | --------------------- | ------------------------------------------------------------------------------------------ | ----------------------------------------- |
+| 1️⃣    | 🎮 ATM Simulator      | [GitHub Link](https://github.com/priyanshu23565/atm-simulator)                             | Console-based banking app                 |
+| 2️⃣    | 📚 Book Issue System  | [GitHub Link](https://github.com/priyanshu23565/book-issue-system)                         | Web app using Spring Boot & MySQL         |
+| 3️⃣    | 🎵 Flutter Music App  | [GitHub Link](https://github.com/priyanshu23565/MUSIC-APP)                                 | Android app built with Dart & Flutter     |
+| 4️⃣    | 🚗 Car Sales Analysis | [GitHub Link](https://github.com/priyanshu23565/-Car-Sales-Data-Analysis-Spark-MapReduce-) | Big data insights using Spark & MapReduce |
+ 
 
-### 📘 Notes & Resources:
-- 🤖 [AI Notes](https://github.com/priyanshu23565/Artificial-intelligence-NOTES)  
-- 📊 [Excel Notes](https://github.com/priyanshu23565/EXCEL)  
-- 🧠 [Computer Fundamentals](https://github.com/priyanshu23565/COMPUTER-)  
+| 📚 Topic                 | 🔗 Link                                                                     |
+| ------------------------ | --------------------------------------------------------------------------- |
+| 🤖 AI Notes              | [AI Notes](https://github.com/priyanshu23565/Artificial-intelligence-NOTES) |
+| 📊 Excel Notes           | [Excel Notes](https://github.com/priyanshu23565/EXCEL)                      |
+| 🧠 Computer Fundamentals | [Computer Fundamentals](https://github.com/priyanshu23565/COMPUTER-)        |
 
-#### 📚 Programming Language Notes:
-- 📜 [JavaScript Notes](https://github.com/Priyanshu23565/Programming/tree/main/JS)  
-- 🌐 [HTML Notes](https://github.com/Priyanshu23565/Programming/tree/main/HTML)  
-- 🎨 [CSS Notes](https://github.com/Priyanshu23565/Programming/tree/main/CSS)  
-- ⚙️ [C++ Notes](https://github.com/Priyanshu23565/Programming/tree/main/C%2B%2B)  
-- 💾 [C Language Notes](https://github.com/Priyanshu23565/Programming/tree/main/C%20-Language)  
 
-### ☁️ Currently Exploring:
-**Cloud Computing**, **System Design**, & **Data Engineering**
+| 🧑‍💻 Language | 📂 GitHub Notes Link                                                             |
+| -------------- | -------------------------------------------------------------------------------- |
+| 📜 JavaScript  | [JavaScript Notes](https://github.com/Priyanshu23565/Programming/tree/main/JS)   |
+| 🌐 HTML        | [HTML Notes](https://github.com/Priyanshu23565/Programming/tree/main/HTML)       |
+| 🎨 CSS         | [CSS Notes](https://github.com/Priyanshu23565/Programming/tree/main/CSS)         |
+| ⚙️ C++         | [C++ Notes](https://github.com/Priyanshu23565/Programming/tree/main/C%2B%2B)     |
+| 💾 C Language  | [C Notes](https://github.com/Priyanshu23565/Programming/tree/main/C%20-Language) |
 
-### ✨ I write code that’s:
-**Readable**, **Scalable**, and **Reusable**
 
-### 🕹️ Other hobbies:
-**Fitness**, **Gaming**, and **Open Source**
+| ✅ Quality   | 🔍 Description                            |
+| ----------- | ----------------------------------------- |
+| 📖 Readable | Clear & easy to understand                |
+| 📈 Scalable | Handles large users/data without fail     |
+| ♻️ Reusable | Components/code reused in multiple places |
 
-### 📫 Reach me:
-[📧 Gmail](mailto:priyanshukumar23565@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/priyanshu-kumar-6841b2227/)
+| 🎯 Hobby       | ❤️ Why I love it                    |
+| -------------- | ----------------------------------- |
+| 🏋️ Fitness    | Healthy body = sharp mind           |
+| 🎮 Gaming      | Improves reflex + stress buster     |
+| 🌍 Open Source | Learning + Contributing = Growth 🚀 |
+
+
+| 📱 Platform | 🔗 Link                                                                                             |
+| ----------- | --------------------------------------------------------------------------------------------------- |
+| 📧 Email    | [priyanshukumar23565@gmail.com](mailto:priyanshukumar23565@gmail.com)                               |
+| 💼 LinkedIn | [linkedin.com/in/priyanshu-kumar-6841b2227](https://www.linkedin.com/in/priyanshu-kumar-6841b2227/) |
+
 
 
 <div align="center">
