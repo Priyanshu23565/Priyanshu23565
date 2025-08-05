@@ -141,7 +141,8 @@
 <div align="center">
 
   <!-- 🔥 GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshu23565&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&include_all_commits=true&custom_title=👨‍💻+GitHub+Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanshu23565&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&include_all_commits=true&custom_title=👨‍💻+GitHub+Stats&cache_seconds=0" width="48%" />
+
 
   <!-- 🚀 Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu23565&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=🔥+Top+Languages" width="38%" />
