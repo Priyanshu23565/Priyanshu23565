@@ -62,53 +62,80 @@
 ---
 
 
+# 🚀 About Me
 
-## 🚀 About Me
-## 👋 Hey there, I'm Priyanshu!
+## 👋 Hey, I'm **Priyanshu**  
+**Full-Stack Java Developer** working with Spring Boot, React & MySQL.
 
-- 👨‍💻 **Full-Stack Java Developer** | Working with **Spring Boot**, **React**, and **MySQL**
+---
 
-| 🔢 No. | 📌 Project Name       | 🔗 GitHub Link                                                                             | 📝 Description                            |
-| ------ | --------------------- | ------------------------------------------------------------------------------------------ | ----------------------------------------- |
-| 1️⃣    | 🎮 ATM Simulator      | [GitHub Link](https://github.com/priyanshu23565/atm-simulator)                             | Console-based banking app                 |
-| 2️⃣    | 📚 Book Issue System  | [GitHub Link](https://github.com/priyanshu23565/book-issue-system)                         | Web app using Spring Boot & MySQL         |
-| 3️⃣    | 🎵 Flutter Music App  | [GitHub Link](https://github.com/priyanshu23565/MUSIC-APP)                                 | Android app built with Dart & Flutter     |
-| 4️⃣    | 🚗 Car Sales Analysis | [GitHub Link](https://github.com/priyanshu23565/-Car-Sales-Data-Analysis-Spark-MapReduce-) | Big data insights using Spark & MapReduce |
- 
+### 💻 Tech Stack  
+- Java, Spring Boot  
+- React.js  
+- MySQL  
+- Flutter & Dart  
+- Big Data (Spark & MapReduce)
 
-| 📚 Topic                 | 🔗 Link                                                                     |
-| ------------------------ | --------------------------------------------------------------------------- |
-| 🤖 AI Notes              | [AI Notes](https://github.com/priyanshu23565/Artificial-intelligence-NOTES) |
-| 📊 Excel Notes           | [Excel Notes](https://github.com/priyanshu23565/EXCEL)                      |
-| 🧠 Computer Fundamentals | [Computer Fundamentals](https://github.com/priyanshu23565/COMPUTER-)        |
+---
 
+### 🔥 Projects
 
-| 🧑‍💻 Language | 📂 GitHub Notes Link                                                             |
-| -------------- | -------------------------------------------------------------------------------- |
-| 📜 JavaScript  | [JavaScript Notes](https://github.com/Priyanshu23565/Programming/tree/main/JS)   |
-| 🌐 HTML        | [HTML Notes](https://github.com/Priyanshu23565/Programming/tree/main/HTML)       |
-| 🎨 CSS         | [CSS Notes](https://github.com/Priyanshu23565/Programming/tree/main/CSS)         |
-| ⚙️ C++         | [C++ Notes](https://github.com/Priyanshu23565/Programming/tree/main/C%2B%2B)     |
-| 💾 C Language  | [C Notes](https://github.com/Priyanshu23565/Programming/tree/main/C%20-Language) |
+| #   | Project Name          | Description                              | GitHub Link                                                                             |
+| --- | --------------------- | -------------------------------------- | --------------------------------------------------------------------------------------- |
+| 1️⃣  | 🎮 ATM Simulator      | Console-based banking application      | [GitHub](https://github.com/priyanshu23565/atm-simulator)                              |
+| 2️⃣  | 📚 Book Issue System  | Web app with Spring Boot & MySQL       | [GitHub](https://github.com/priyanshu23565/book-issue-system)                          |
+| 3️⃣  | 🎵 Flutter Music App  | Android app built with Flutter & Dart  | [GitHub](https://github.com/priyanshu23565/MUSIC-APP)                                 |
+| 4️⃣  | 🚗 Car Sales Analysis | Big data insights using Spark & MapReduce | [GitHub](https://github.com/priyanshu23565/-Car-Sales-Data-Analysis-Spark-MapReduce-) |
 
+---
 
-| ✅ Quality   | 🔍 Description                            |
-| ----------- | ----------------------------------------- |
-| 📖 Readable | Clear & easy to understand                |
-| 📈 Scalable | Handles large users/data without fail     |
-| ♻️ Reusable | Components/code reused in multiple places |
+### 📚 Notes & Resources
 
-| 🎯 Hobby       | ❤️ Why I love it                    |
-| -------------- | ----------------------------------- |
-| 🏋️ Fitness    | Healthy body = sharp mind           |
-| 🎮 Gaming      | Improves reflex + stress buster     |
-| 🌍 Open Source | Learning + Contributing = Growth 🚀 |
+| Topic                   | Link                                                                                      |
+| ----------------------- | ----------------------------------------------------------------------------------------- |
+| 🤖 Artificial Intelligence Notes | [AI Notes](https://github.com/priyanshu23565/Artificial-intelligence-NOTES)             |
+| 📊 Excel Notes          | [Excel Notes](https://github.com/priyanshu23565/EXCEL)                                   |
+| 🧠 Computer Fundamentals| [Computer Fundamentals](https://github.com/priyanshu23565/COMPUTER-)                     |
 
+---
 
-| 📱 Platform | 🔗 Link                                                                                             |
-| ----------- | --------------------------------------------------------------------------------------------------- |
-| 📧 Email    | [priyanshukumar23565@gmail.com](mailto:priyanshukumar23565@gmail.com)                               |
-| 💼 LinkedIn | [linkedin.com/in/priyanshu-kumar-6841b2227](https://www.linkedin.com/in/priyanshu-kumar-6841b2227/) |
+### 🧑‍💻 Language Notes
+
+| Language      | Notes Link                                                                               |
+| ------------- | ----------------------------------------------------------------------------------------- |
+| 📜 JavaScript | [JavaScript Notes](https://github.com/Priyanshu23565/Programming/tree/main/JS)            |
+| 🌐 HTML       | [HTML Notes](https://github.com/Priyanshu23565/Programming/tree/main/HTML)                |
+| 🎨 CSS        | [CSS Notes](https://github.com/Priyanshu23565/Programming/tree/main/CSS)                  |
+| ⚙️ C++        | [C++ Notes](https://github.com/Priyanshu23565/Programming/tree/main/C%2B%2B)              |
+| 💾 C Language | [C Notes](https://github.com/Priyanshu23565/Programming/tree/main/C%20-Language)          |
+
+---
+
+### ✅ Core Strengths
+
+- 📖 Readable, clean & maintainable code  
+- 📈 Scalable solutions built for growth  
+- ♻️ Reusable components & modular design  
+
+---
+
+### 🎯 Hobbies & Interests
+
+- 🏋️‍♂️ Fitness: Healthy body, sharp mind  
+- 🎮 Gaming: Improves reflexes & reduces stress  
+- 🌍 Open Source: Passion for learning & contributing  
+
+---
+
+### 📱 Connect with Me
+
+- 📧 Email: [priyanshukumar23565@gmail.com](mailto:priyanshukumar23565@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/priyanshu-kumar-6841b2227](https://www.linkedin.com/in/priyanshu-kumar-6841b2227/)  
+
+---
+
+*Made with ❤️ by Priyanshu*  
+
 
 
 
