@@ -166,17 +166,27 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <!-- 🔥 GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshu23565&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&include_all_commits=true&custom_title=👨‍💻+GitHub+Stats&cache_seconds=0" width="48%" />
-  
+  <!-- 👨‍💻 GitHub Stats -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=priyanshu23565&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&include_all_commits=true&custom_title=👨‍💻+GitHub+Stats&cache_seconds=0"
+    width="48%"
+    alt="GitHub Stats"
+  />
+
   <!-- 🚀 Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu23565&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=🔥+Top+Languages" width="38%" />
-  
-  <!-- 🔥 Streak Stats -->
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu23565&theme=tokyonight&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&custom_title=🔥+Contribution+Streak" width="46%" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu23565&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=🔥+Top+Languages"
+    width="38%"
+    alt="Top Languages"
+  />
 
+  <!-- 🔥 Contribution Streak -->
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu23565&theme=tokyonight&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&custom_title=🔥+Contribution+Streak"
+    width="46%"
+    alt="Contribution Streak"
+  />
 </div>
-
 
 
 ---
