@@ -42,6 +42,8 @@
     🔥 <span style="color:#FFDC00;">StartTheCode</span> &nbsp;&mdash;&nbsp; Code. Build. Grow. Repeat. 🚀
   </p>
 
+  
+
   <!-- Typing animated skills -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FFAA,FF416C,FFD700,00FFAA,FF416C,FF8C00&center=true&vCenter=true&width=780&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB+C+%26+C%2B%2B+Teacher;%E2%98%95%EF%B8%8F+Java+%7C+%F0%9F%90%8D+Python+%7C+%E2%9A%97%EF%B8%8F+Flask;%F0%9F%90%AC+MySQL+%7C+%F0%9F%8C%90+HTML+%7C+%F0%9F%8E%A8+CSS+%7C+%E2%9C%A8+JS;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Coding+Mentor+%7C+%F0%9F%92%A1+Passionate+Educator;%F0%9F%9A%80+Building+Future+Developers;%F0%9F%92%BB+Code.+%F0%9F%93%9A+Learn.+%F0%9F%93%88+Grow.;%F0%9F%8C%9F+From+Zero+to+Hero;%F0%9F%94%A5+Let's+StartTheCode!" alt="Typing SVG"/>
