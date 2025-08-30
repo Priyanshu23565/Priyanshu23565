@@ -16,13 +16,21 @@
 
 <p align="center" style="margin-top: 20px;">
 
-  <a href="mailto:priyanshukumar23565@gmail.com" target="_blank" rel="noopener noreferrer" title="Email Me" style="margin: 0 10px; display: inline-block;">
-    <img src="https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
-  </a>
+ <!-- Email Badge -->
+<a href="mailto:priyanshukumar23565@gmail.com" target="_blank" rel="noopener noreferrer" title="Email Me" style="margin: 0 10px; display: inline-block;">
+  <img src="https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+</a>
 
-  <a href="https://github.com/priyanshu23565" target="_blank" rel="noopener noreferrer" title="GitHub Profile" style="margin: 0 10px; display: inline-block;">
-    <img src="https://img.shields.io/github/followers/priyanshu23565?label=Follow&style=for-the-badge&logo=github" alt="GitHub Followers" height="40" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
-  </a>
+<!-- GitHub Followers Badge -->
+<a href="https://github.com/priyanshu23565" target="_blank" rel="noopener noreferrer" title="GitHub Profile" style="margin: 0 10px; display: inline-block;">
+  <img src="https://img.shields.io/github/followers/priyanshu23565?label=Follow&style=for-the-badge&logo=github" alt="GitHub Followers" height="40" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+</a>
+
+<!-- GitHub Profile Views Counter -->
+<a href="https://github.com/priyanshu23565" target="_blank" rel="noopener noreferrer" title="GitHub Views" style="margin: 0 10px; display: inline-block;">
+  <img src="https://komarev.com/ghpvc/?username=priyanshu23565&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" height="40" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+</a>
+
 
   <a href="https://www.linkedin.com/in/priyanshu-kumar-6841b2227/" target="_blank" rel="noopener noreferrer" title="LinkedIn Profile" style="margin: 0 10px; display: inline-block;">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" height="40" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
