@@ -139,7 +139,8 @@
 
 ### 📱 Connect with Me
 
-- 📧 Email: [priyanshukumar23565@gmail.com](mailto:priyanshukumar23565@gmail.com)  
+- 📧 Email: [priyanshukumar23565@gmail.com](mailto:priyanshukumar23565@gmail.com)
+- 📧 Email: [priyanshusing9082@gmail.com](mailto:priyanshusingh9082@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/priyanshu-kumar-6841b2227](https://www.linkedin.com/in/priyanshu-kumar-6841b2227/)  
 
 ---
